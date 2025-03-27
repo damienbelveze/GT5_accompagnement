@@ -1,0 +1,5 @@
+Pour anticiper les questions concernant le développement et la valorisation des codes et logiciels, il est possible de rédiger un plan de gestion des logiciels. 
+Ce document permet de réfléchir en amont sur toutes les étapes du cycle de vie du logiciel. 
+Il donne des recommandations sur les bonnes pratiques à avoir pour développer et diffuser un code ou un logiciel. Dans le cadre de projet de recherche impliquant la création de codes, un lien est fortement recommandé entre le plan de gestion logiciel et le plan de gestion de données correspondant. 
+Sur le [plateforme Opidor](https://dmp.opidor.fr/) notamment, uu moment de la rédaction d’un plan de gestion des données, il est possible d’ indiquer, comme produit de recherche, un code ou un logiciel. Pour ce produit de recherche spécifique, le chercheur répondra à des questions particulières correspondant à la production de codes. En particulier, la dernière question du plan de gestion logiciel permet de faire le lien avec le plan de gestion des données. 
+

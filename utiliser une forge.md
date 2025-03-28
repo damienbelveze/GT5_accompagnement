@@ -6,6 +6,10 @@ author:
     - name: Marco Milanesio
 ---
 
+<div class="fa-3x">
+  <i class="fa-solid fa-circle-plus fa-beat"><a href="https://view.genially.com/67e506aaf53396cdc335418a/horizontal-infographic-diagrams-gt5-partage-code-source"></i>
+</div>
+
 # utiliser une forge pour développer du code : une bonne pratique pour faciliter la réplicabilité du code source
 
 une forge logicielle est un système complet en ligne de gestion, de partage et de maintenance collaborative de textes (et donc en particulier de codes sources). 
